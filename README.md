@@ -1,6 +1,10 @@
 ### Nintendont
 A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
 
+### Changes from Mainline Nintendont:
+* Extended ISO Size Limit
+* Menu color for Extended ISO
+
 ### Features:
 * Works on Wii and Wii U (in vWii mode)
 * Full-speed loading from a USB device or an SD card.
